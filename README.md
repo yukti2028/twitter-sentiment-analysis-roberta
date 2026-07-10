@@ -1,4 +1,4 @@
-# 🧠 Twitter Sentiment Analysis using RoBERTa Transformer
+# 🧠 social-media-sentiment-analysis-roberta
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge)
